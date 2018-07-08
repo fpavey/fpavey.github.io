@@ -74,7 +74,6 @@ header h1 {
   position: relative;
   z-index: 5;
   top: 15px;
-  :hover: yellow;
 }
 
 #team1 {
@@ -84,7 +83,7 @@ background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, F
 }
 
 .fab {
-  color: yellow;
+  color: white;
 }
 
 #team2 {
